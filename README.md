@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Yousef  
+# 👋 Hi, I'm Yousef Abdelkariem [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Abdelkariem20/)   
 
-💻 Full-Stack Developer | ![ERP](https://img.shields.io/badge/ERP-4D4D4D?style=flat&logo=erpnext&logoColor=white) Enthusiast  
+💻 Full-Stack Developer | ![ERP](https://img.shields.io/badge/ERP-4D4D4D?style=flat&logo=erpnext&logoColor=white) Enthusiast 
 
 ---
 
